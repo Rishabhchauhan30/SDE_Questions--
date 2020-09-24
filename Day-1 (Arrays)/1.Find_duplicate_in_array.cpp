@@ -1,6 +1,5 @@
 //1-USING SORTING IN 
 //T.C--O(nlogn)
-/*
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
@@ -60,4 +59,3 @@ public:
     }
 };
 
-*/
